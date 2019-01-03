@@ -1,7 +1,7 @@
 body {
   font-family: 'Vollkorn', serif;
   color: #46433A;
-  background-color: #F1EED9; }
+  background-color: #ffd05f; }
 
 header,
 main {
@@ -49,7 +49,7 @@ since it must be aligned with the content */
   background-size: cover;
   border-radius: 50%;
   -moz-border-radius: 50%;
-  border: 2px solid #F1EED9;
+  border: 2px solid #ffd05f;
   box-shadow: 0 0 0 3px #46433A; }
 
 /*** author ***/
@@ -114,6 +114,8 @@ footer {
     text-align: right; }
 
   main {
-    width: 46%;
+    width: 60%;
     margin-left: 54%;
-    padding: 0; } }
+    padding: 5em;
+    border-left: 10px solid #46433a;
+    background-color: #ffecbf; } }

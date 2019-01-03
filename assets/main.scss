@@ -3,7 +3,7 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: #ffd05f;
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -143,8 +143,10 @@ footer {
 	}
 
 	main {
-		width: 46%;
+		width: 60%;
 		margin-left: 54%;
-		padding: 0;
+		padding: 5em;
+		border-left:10px solid #46433a;
+		background-color: #ffecbf;
 	}
 }
