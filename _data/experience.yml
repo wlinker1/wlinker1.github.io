@@ -9,16 +9,16 @@
 - company: The Fire Museum of Maryland
   position: Floor Manager and Tour Guide
   duration: June 2016 &mdash; December 2019
-  summary: My roles at the museum were flexible, but focused on:<ul class="resume-item-list"><li>Educating guests on the history of firefighting in Baltimore</li><li>Coordinating the museum floor activities and demonstrations with a group of employees</li><li>Organizing fundraising files and other techincal efforts</li></ul>
+ # summary: My roles at the museum were flexible, but focused on:<ul class="resume-item-list"><li>Educating guests on the history of firefighting in Baltimore</li><li>Coordinating the museum floor activities and demonstrations with a group of employees</li><li>Organizing fundraising files and other techincal efforts</li></ul>
 
 # Jmore
 - company: Jmore Magazine
   position: Editorial Intern
   duration: December 2016 &mdash; May 2017
-  summary: I got the opportunity to work directly with the Editor-In-Chief, writing and editing articles for both print and digital publication. See below for a link to my author page.
+#  summary: I got the opportunity to work directly with the Editor-In-Chief, writing and editing articles for both print and digital publication. See below for a link to my author page.
 
 # UMBC Hillel
 - company: UMBC Hillel
   position: Vice President of Programming, Engagement Intern
   duration:   December 2015 &mdash; October 2017
-  summary: With a team of 5 engagement interns, I organized the event programming and logistics for UMBC's premiere Jewish organization, UMBC Hillel.
+#  summary: With a team of 5 engagement interns, I organized the event programming and logistics for UMBC's premiere Jewish organization, UMBC Hillel.
