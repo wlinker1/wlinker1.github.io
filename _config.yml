@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "William Linker"
-resume_title:                   "Student &mdash; Writer &mdash; Maker"
+resume_title:                   " Writer &mdash; Worker &mdash; Maker"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "w.a.linker@gmail.com"
